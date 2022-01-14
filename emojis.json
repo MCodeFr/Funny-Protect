@@ -1,0 +1,14 @@
+{
+	"error": "❌",
+	"subtract": "➖",
+	"success": "✅",
+	"loading": "⚽",
+	"categories": {
+		"fun": "😃",
+        "modération": "👮",
+		"help": "👁‍🗨",
+		"Fondateur": "📊",
+		"musique": "🎶",
+		"roles": "🎭"
+	}
+}
